@@ -15,9 +15,9 @@ Run command from a command line example:
 ___python time_converter.py 1.2h___
 
 # TASK 2
-For convenient unit testing it was decided to pass the output type in the argument.
-Thus, common use of the program from the command line with the standard output has the following look:
-___python representer.py ex_1.txt ex_2.txt ex_3.txt___
+For convenient unit testing it was decided to pass the output type in the argument.  
+Thus, common use of the program from the command line with the standard output has the following look:  
+___python representer.py ex_1.txt ex_2.txt ex_3.txt___  
 The program will stop after pressing any key.  
   
 Unit tests pass an empty list as an output. This is done for saving result.
