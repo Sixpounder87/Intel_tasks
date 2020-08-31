@@ -1,6 +1,6 @@
 import unittest
 
-from .time_converter import time_to_sec
+from intel_task_1.time_converter import time_to_sec
 
 
 class TestTimeConverter(unittest.TestCase):
