@@ -3,7 +3,7 @@ import unittest
 import threading
 import time
 
-from .representer import list_files
+from intel_task_2.representer import list_files
 
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
