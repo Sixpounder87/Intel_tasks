@@ -24,3 +24,7 @@ Unit tests pass an empty list as an output. This is done for saving result.
   
 The program is written on Windows. The quit-mechanism is tested on Windows. However, it is easy to add Linux related program quit.  
 Every test file processed by the program should have an empty line at the end. Otherwise last file line will be skipped in the program output.  
+
+# TASK 3
+The solution works for ascending sorting.
+I have tried to make a solution as much easy as I can. Therefore it has obvious disadvantage for the case with big iterables at the input - a lot of memory is used for storing generated values.
